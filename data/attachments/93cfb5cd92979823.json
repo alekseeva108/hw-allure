@@ -1,0 +1,1 @@
+{"args":{},"data":{"name":"Alice","age":30},"files":{},"form":{},"headers":{"host":"postman-echo.com","content-length":"28","user-agent":"python-requests/2.31.0","content-type":"application/json","accept":"*/*","x-forwarded-proto":"https","accept-encoding":"gzip, br"},"json":{"name":"Alice","age":30},"url":"https://postman-echo.com/post"}

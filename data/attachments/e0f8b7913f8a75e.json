@@ -1,0 +1,1 @@
+{"args":{"foo":"bar","num":"42"},"headers":{"host":"postman-echo.com","x-forwarded-proto":"https","user-agent":"python-requests/2.31.0","accept":"*/*","accept-encoding":"gzip, br"},"url":"https://postman-echo.com/get?foo=bar&num=42"}

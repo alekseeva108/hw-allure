@@ -1,5 +1,0 @@
-allure-reports/
-allure-results/
-.vscode/
-venv/
-.pytest_cache/
